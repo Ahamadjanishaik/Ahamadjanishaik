@@ -18,8 +18,20 @@ Welcome to my GitHub profile! I specialize in ensuring software quality through 
 
 Here are some of the projects I've worked on:
 
-- **[Automated Testing Framework](https://github.com/Ahamadjanishaik/Naaptol_Automation.git)**: A comprehensive framework for automating web application tests using Selenium.
-- **[Functional Testing Suite](https://github.com/Ahamadjanishaik/Functional_Testing_project.git)**: A suite of tests designed to validate the functionality and compatibility of the web app.
+- **[E-commerce Web App End-to-End Automation Project](#)**: 
+  - A complete automation solution for testing an e-commerce platform.
+  - Written end-to-end test scripts for automation to ensure all user interactions are tested.
+  - Implemented the Page Object Model (POM) design pattern for maintainability and reusability.
+  - Utilized the Cucumber framework for behavior-driven development, enhancing collaboration between technical and non-technical stakeholders.
+
+- **[Qafox Functional Testing Project](#)**: 
+  - A project focused on validating the functional aspects of the Qafox application.
+  - Responsible for creating the test plan, test scenarios, and detailed test cases to ensure comprehensive coverage.
+  - Developed an XMind map for the test plan and bug reporting, facilitating better visualization and tracking of testing progress.
+
+- **[Automated Testing Framework](https://github.com/Ahamadjanishaik/Naaptol_Automation.git)**: A comprehensive framework for automating web application tests using Selenium. This framework aims to improve testing efficiency and reduce manual effort.
+
+- **[Functional Testing Suite](https://github.com/Ahamadjanishaik/Functional_Testing_project.git)**: A suite of tests designed to validate the functionality and compatibility of the web app, ensuring that it meets all specified requirements.
 
 ## 📫 Let's Connect
 

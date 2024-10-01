@@ -18,13 +18,13 @@ Welcome to my GitHub profile! I specialize in ensuring software quality through 
 
 Here are some of the projects I've worked on:
 
-- **[E-commerce Web App End-to-End Automation Project](#)**: 
+- **[E-commerce Web App End-to-End Automation Project](https://github.com/Ahamadjanishaik/Naaptol_Automation)**: 
   - A complete automation solution for testing an e-commerce platform.
   - Written end-to-end test scripts for automation to ensure all user interactions are tested.
   - Implemented the Page Object Model (POM) design pattern for maintainability and reusability.
   - Utilized the Cucumber framework for behavior-driven development, enhancing collaboration between technical and non-technical stakeholders.
 
-- **[Qafox Functional Testing Project](#)**: 
+- **[Qafox Functional Testing Project](https://github.com/Ahamadjanishaik/Functional_Testing_project)**: 
   - A project focused on validating the functional aspects of the Qafox application.
   - Responsible for creating the test plan, test scenarios, and detailed test cases to ensure comprehensive coverage.
   - Developed an XMind map for the test plan and bug reporting, facilitating better visualization and tracking of testing progress.

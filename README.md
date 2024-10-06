@@ -4,9 +4,10 @@ Welcome to my GitHub profile! I specialize in ensuring software quality through 
 
 ## 🔧 Skills
 
-- **Testing**: Functional Testing, Automation Testing, API Testing
-- **Tools**: Selenium, Postman
-- **Programming Languages**: Java, JavaScript
+- **Testing**: Functional Testing, Automation Testing, API Testing, and Mobile Testing (Basics).
+- **Tools**: Selenium WebDriver, Postman, Cypress, and Appium
+- **Frameworks**: TestNG, BDD using Cucumber, and RestAssured
+- **Programming Languages**: Java, and JavaScript
 
 ## 🌟 What I Do
 
